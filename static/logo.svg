@@ -1,0 +1,13 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(256,64) rotate(45)">
+        <rect fill="#171A21" width="320" height="320" transform="translate(-32, -32)" rx="32" />
+        <path d="M100,148 L100,256 L256,256 L0,0 L256,0 L256,208" fill="transparent" stroke="#226CE0" stroke-width="24"
+            stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <!--
+    226CE0 -> Blauwish
+    3C896D -> Groenish
+    F18701 -> Oranjeish
+    DE3C4B -> Redish
+    -->
+</svg>
